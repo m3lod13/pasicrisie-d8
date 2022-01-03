@@ -1,0 +1,11 @@
+name: User Expire
+description: Allows an administrator to define a date on which to expire a user account.
+package: User management
+type: module
+core_version_requirement: ^8.8 || ^9
+configure: user_expire.admin
+
+# Information added by Drupal.org packaging script on 2021-10-11
+version: '8.x-1.0'
+project: 'user_expire'
+datestamp: 1633965051

@@ -1,0 +1,7 @@
+name: Pasicrisie
+type: theme
+description: 'A custom theme for Pasicrisie of course Bootstrap based'
+core_version_requirement: ^8 || ^9
+regions:
+  header: 'Header'
+  content: 'Content'
