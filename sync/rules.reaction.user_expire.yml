@@ -1,0 +1,14 @@
+uuid: 5e620b03-2f83-41bc-8fd1-4d03e17e23b5
+langcode: en
+status: true
+dependencies: {  }
+id: user_expire
+label: 'User expire'
+events:
+  -
+    event_name: 'rules_entity_insert:user'
+description: ''
+tags: {  }
+config_version: '3'
+expression:
+  id: rules_rule

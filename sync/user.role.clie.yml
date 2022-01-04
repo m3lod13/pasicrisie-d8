@@ -1,0 +1,28 @@
+uuid: 98fc2bbf-151b-4acd-883b-dcb6f21c5df1
+langcode: en
+status: true
+dependencies: {  }
+id: clie
+label: client
+weight: 4
+is_admin: null
+permissions:
+  - 'access administration pages'
+  - 'access content overview'
+  - 'access taxonomy overview'
+  - 'access user profiles'
+  - 'administer account settings'
+  - 'administer permissions'
+  - 'administer taxonomy'
+  - 'administer user expire settings'
+  - 'administer users'
+  - 'cancel account'
+  - 'change own username'
+  - 'create terms in tags'
+  - 'delete terms in tags'
+  - 'edit terms in tags'
+  - 'select account cancellation method'
+  - 'set user expiration'
+  - 'view expiring users report'
+  - 'view own unpublished content'
+  - 'view the administration theme'

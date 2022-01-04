@@ -1,0 +1,14 @@
+uuid: 8a4fd4ba-4917-43dc-8645-457b4ba94c81
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.subscriber_without_limitation
+  module:
+    - user
+id: user_add_role_action.subscriber_without_limitation
+label: 'Add the subscriber without limitation role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: subscriber_without_limitation

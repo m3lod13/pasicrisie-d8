@@ -1,0 +1,20 @@
+uuid: 6f845be3-28dc-447c-b163-671285afb3bd
+langcode: en
+status: true
+dependencies:
+  theme:
+    - pasicrisie
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
+id: pasicrisie_local_actions
+theme: pasicrisie
+region: content
+weight: -20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }

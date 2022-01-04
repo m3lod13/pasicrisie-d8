@@ -1,0 +1,10 @@
+uuid: e93785ae-0583-419e-8fc2-c584ca7c3799
+langcode: en
+status: true
+dependencies: {  }
+id: subscriber_without_limitation
+label: 'subscriber without limitation'
+weight: 5
+is_admin: null
+permissions:
+  - 'use advanced search'

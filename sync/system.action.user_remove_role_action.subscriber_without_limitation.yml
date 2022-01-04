@@ -1,0 +1,14 @@
+uuid: b62a98fb-7538-45ea-a5a6-70a408d0fb67
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.subscriber_without_limitation
+  module:
+    - user
+id: user_remove_role_action.subscriber_without_limitation
+label: 'Remove the subscriber without limitation role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: subscriber_without_limitation
