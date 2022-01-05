@@ -1,0 +1,10 @@
+uuid: 2771703d-e621-46a2-a23e-5ca415c9edb0
+langcode: en
+status: true
+dependencies: {  }
+id: subscriber
+label: subscriber
+weight: 3
+is_admin: null
+permissions:
+  - 'use advanced search'

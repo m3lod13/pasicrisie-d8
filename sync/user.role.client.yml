@@ -1,0 +1,43 @@
+uuid: 301cac57-85fc-4307-b2c2-c06a02f7f189
+langcode: en
+status: true
+dependencies: {  }
+id: client
+label: client
+weight: 4
+is_admin: null
+permissions:
+  - 'access administration pages'
+  - 'access content'
+  - 'access content overview'
+  - 'access toolbar'
+  - 'access user profiles'
+  - 'administer fields'
+  - 'administer permissions'
+  - 'administer session limits by role'
+  - 'administer session limits per user'
+  - 'administer taxonomy'
+  - 'administer users'
+  - 'cancel account'
+  - 'change own username'
+  - 'create doctrine content'
+  - 'create tomes content'
+  - 'delete any doctrine content'
+  - 'delete any tomes content'
+  - 'delete own doctrine content'
+  - 'delete own tomes content'
+  - 'delete terms in 1'
+  - 'delete terms in 2'
+  - 'delete terms in 3'
+  - 'edit any doctrine content'
+  - 'edit any tomes content'
+  - 'edit own doctrine content'
+  - 'edit own tomes content'
+  - 'edit terms in 1'
+  - 'edit terms in 2'
+  - 'edit terms in 3'
+  - 'select account cancellation method'
+  - 'set user expiration'
+  - 'view expiring users report'
+  - 'view own unpublished content'
+  - 'view the administration theme'
