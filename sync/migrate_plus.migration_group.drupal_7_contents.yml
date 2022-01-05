@@ -1,0 +1,10 @@
+uuid: bccdac3d-da53-45b8-8b95-2847caf05e36
+langcode: en
+status: true
+dependencies: {  }
+id: drupal_7_contents
+label: 'Drupal 7 contents'
+description: 'Migrate contents (user, contents, taxo) from D7'
+source_type: 'Drupal 7'
+module: null
+shared_configuration: null
